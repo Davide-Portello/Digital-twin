@@ -1,0 +1,3 @@
+# Digital-twin
+
+The aim of the project was to model ship flows and maintenance activities operations in a military port. This objectives have been obtained through the creation of a specific Matlab Simulink environment, representing flows and traffic inside the port and deeply modeling maintenance activities. With the tool, two scenarios have been compared: the former considering scheduled maintenance activities and the latter using the output of residual useful life of the ship using advanced methods to model damages and maintenance needs. Finally, a developed Matlab code compares the results of the two scenarios, underlying differences and benefits.
